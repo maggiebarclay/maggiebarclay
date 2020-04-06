@@ -1,0 +1,152 @@
+body {
+	background-image: linear-gradient(to top, #3b6e8c 0%, #2b2b3a 100%);
+	height: 900px;
+	background-size: 2000px;
+	background-repeat: no-repeat;
+    min-height:100%;
+	width:100%;
+	margin: 0px; 0px; 0px; 0px;
+}
+
+h1{
+	width=2000px;
+	color: white;
+	font-size: 65px;
+	font-family: Arial;
+	font-weight: 100;
+	text-align: center;
+	letter-spacing: 0.2em;
+	text-decoration: none;
+}
+
+#name{
+	text-decoration:none;
+}
+
+#iit{
+	overflow:hidden;
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+
+#iit:hover{
+	opacity: 0.5;
+	transform: scale(1.1); 
+}
+
+#fermi{
+	overflow:hidden;
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 560px;
+}
+
+#fermi:hover{
+	opacity: 0.5;
+	transform: scale(1.1); 
+}
+
+#cdc{
+	overflow:hidden;
+	position: absolute;
+	margin-top: 230px;
+	margin-left: 420px;
+}
+
+#cdc:hover{
+	opacity: 0.5;
+	transform: scale(1.1); 
+}
+
+#rmc{
+	overflow:hidden;
+	position: absolute;
+	margin-top: 170px;
+	margin-left: 100px;
+}
+
+#rmc:hover{
+	opacity: 0.5;
+	transform: scale(1.1); 
+}
+
+#first{
+	overflow:hidden;
+	position: absolute;
+	margin-top: 170px;
+	margin-left: 720px;
+}
+
+#first:hover{
+	opacity: 0.5;
+	transform: scale(1.1); 
+}
+
+#click {
+	color:ghostwhite;
+	font-size: 18px;
+	font-family: Arial;
+	font-weight: 100;
+	margin-top: 60px;
+	margin-left:-10px;
+	text-align: center;
+	letter-spacing:0.15em;
+}
+
+.menu{
+	margin-left:-40px;
+	margin-top:-50px;
+    list-style:none;
+    text-align:center;
+}
+
+li {
+	display:inline;
+}
+
+li a {
+	padding: 30px 30px;
+	font-family: Arial;
+	display: inline-block;
+	font-weight: bold;
+	text-decoration: none;
+	color: #eafc40;
+	letter-spacing:0.2em;
+
+}
+
+li a:hover {
+	color:#1ed2f4;
+}
+
+.footer{
+	padding-top: 3px;
+	line-height:15px;
+	position:relative;
+	bottom:-525px;
+	width: 100%;
+	height: 155px;
+	background-color: #2b2b3a;
+	color:#f4f5f6;
+	font-size: 15px;
+	font-family: Arial;
+	font-weight: 100;
+	letter-spacing: 0.1em;
+}	
+
+p{
+	margin-left: 80px;
+}
+
+h2{
+	margin-left:40px;
+	margin-top: 30px;
+}
+
+.main{
+	left:0px;
+	max-height:400px;
+	min-height:400px;
+}
+	
