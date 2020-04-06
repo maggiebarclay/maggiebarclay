@@ -1,6 +1,6 @@
 body {
 	background-image: linear-gradient(to top, #3b6e8c 0%, #2b2b3a 100%);
-	height: 2500px;
+	height: 2000px;
 	background-size: 2000px;
 	background-repeat: no-repeat;
     min-height:100%;
@@ -11,7 +11,7 @@ body {
 
 h1 {
 	font-size: 35px;
-	color:white;
+	color:black;
 }
 
 h2{
